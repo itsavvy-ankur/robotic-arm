@@ -11,7 +11,11 @@ This repository is a salvage of code / documents from my final year project as p
   * Ability to control different arms using the Java app using different stepping modes(including high torque operation)
 
 ## Docs
+
 [Project Documentation](docs/Proj Doc.doc)
+
 [Project Components and Cost](docs/Program Flow.doc)
+
 [Demo Video](https://youtu.be/uRIp50oaYRo)
+
 [Project Snaps](https://photos.app.goo.gl/iugwYPE4wSXWpRzH9)
