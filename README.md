@@ -12,9 +12,9 @@ This repository is a salvage of code / documents from my final year project as p
 
 ## Docs
 
-[Project Documentation](docs/Proj Doc.doc)
+[Project Documentation](./docs/Proj Doc.doc)
 
-[Project Components and Cost](docs/Program Flow.doc)
+[Project Components and Cost](./docs/Program Flow.doc)
 
 [Demo Video](https://youtu.be/uRIp50oaYRo)
 
