@@ -12,9 +12,9 @@ This repository is a salvage of code / documents from my final year project as p
 
 ## Docs
 
-[Project Documentation](./docs/Proj Doc.doc)
+[Project Documentation](https://github.com/itsavvy-ankur/robotic-arm/blob/main/docs/Proj%20Doc.doc)
 
-[Project Components and Cost](./docs/Program Flow.doc)
+[Project Components and Cost](https://github.com/itsavvy-ankur/robotic-arm/blob/main/docs/Program%20Flow.doc)
 
 [Demo Video](https://youtu.be/uRIp50oaYRo)
 
